@@ -1,4 +1,4 @@
-- 👋 Hi,
+Hi,
 
 My name is Henrique Costa
 - 🎓 Studying Computer Science and Engineering ate Instituto Superior Técnico
