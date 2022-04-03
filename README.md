@@ -1,7 +1,7 @@
 Hi,
 
 My name is Henrique Costa
-- 🎓 Studying Computer Science and Engineering ate Instituto Superior Técnico
+- 🎓 Studying Computer Science and Engineering at Instituto Superior Técnico
 
 <!---
 hmcostaa/hmcostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
