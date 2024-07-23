@@ -5,4 +5,4 @@ My name is Henrique Costa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcostaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmcostaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmcostaa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
